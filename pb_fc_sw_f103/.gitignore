@@ -1,0 +1,10 @@
+
+04_software/eeprom_emulation_example/
+
+Debug/
+
+*.ipt
+
+03_hardware/3D/photoTr_irLed/lockfile\.lck
+
+\.settings/language\.settings\.xml
